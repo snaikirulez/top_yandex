@@ -1,4 +1,4 @@
-javascript:(function() {
+(function() {
     // Скрываем элемент с классом .content__right
     document.styleSheets[0].addRule(".content__right", "display:none !important");
 
